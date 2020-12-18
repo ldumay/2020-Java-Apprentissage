@@ -6,8 +6,11 @@ Code simple pour apprendre les bases de python.
 La liste des exercices est [https://coding.ldumay.fr/java/](https://coding.ldumay.fr/java/).
 
 > Mes sources modèles d'exercices :
+>
 > => [Cours de python](http://univcergy.phpnet.org/python/)
+>
 > => [Liste d'exemples de code Java](http://info.clg.qc.ca/java/)
+>
 > => [Développons un peu en Java](https://www.jmdoudoux.fr/java/dej/index.htm)
 
 Ce projet est un ensemble de code base à connaitre pour s'entrainer au développement.
