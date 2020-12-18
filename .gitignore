@@ -1,0 +1,19 @@
+# - - [ .gitignore ] - -
+#
+# Ne pas synchroniser,
+
+
+#-> les fichiers ci-dessous :
+
+build.xml
+manifest.mf
+
+
+#-> les fichiers type :
+
+*.DS_Store
+
+
+#-> les fichiers ci-dessous :
+
+/nbproject/
