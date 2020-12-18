@@ -1,6 +1,6 @@
 # 2020-Java-Apprentissage
 
-## Ce projet est encore à l'état de réalisation en version 0.0.3.
+## Ce projet est encore à l'état de réalisation en version 0.0.4.
 ## Revenez plus tard, merci ;).
 
 Code simple pour apprendre les bases de python.
