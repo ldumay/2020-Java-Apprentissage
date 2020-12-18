@@ -1,6 +1,7 @@
 # 2020-Java-Apprentissage
 
-## Ce projet est encore à l'état de réalisation en version 0.0.1 - Revenez plus tard, merci ;).
+## Ce projet est encore à l'état de réalisation en version 0.0.3.
+## Revenez plus tard, merci ;).
 
 Code simple pour apprendre les bases de python.
 La liste des exercices est [https://coding.ldumay.fr/java/](https://coding.ldumay.fr/java/).
