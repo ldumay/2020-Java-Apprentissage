@@ -16,4 +16,4 @@ manifest.mf
 
 #-> les fichiers ci-dessous :
 
-/nbproject/
+#/nbproject/ (Ne pas ignorer - Indispensable à l'intégration du projet dans NetBeans)
