@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lib.ldumay;
+package ldumay.lib;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -88,9 +88,11 @@ public class GenerateBirthday {
         // Calculates the age between the selected birthday and today's date, converting the retrieved dates to an integer string.
         yearsOld = Integer.parseInt(today[0]) - Integer.parseInt(birth[0]);
         // Checking in the console.
+        /*
         System.out.println("getYearsOld.dateToday : "+dateToday);
         System.out.println("getYearsOld.selectedBirthday : "+selectedBirthday);
         System.out.println("getYearsOld.yearsOld : "+yearsOld);
+        */
         // Return the desired result in the form of a date.
         return yearsOld;
     }

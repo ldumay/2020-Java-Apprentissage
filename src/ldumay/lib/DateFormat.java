@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lib.ldumay;
+package ldumay.lib;
 
-import com.vaadin.ui.DateTimeField;
+//import com.vaadin.ui.DateTimeField;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -59,10 +59,12 @@ public class DateFormat {
      * @param dateInserted - type DateTimeField
      * @return dateFormated - type String
      */
+    /*
     public String DateTimeField(String patternSelected, DateTimeField dateInserted){
         DateTimeFormatter ageValueTmpConvert = DateTimeFormatter.ofPattern(patternSelected);
         String dateFormated = ageValueTmpConvert.format(dateInserted.getValue());
         // Return the desired result in the form of a date.
         return dateFormated;
     }
+    */
 }
