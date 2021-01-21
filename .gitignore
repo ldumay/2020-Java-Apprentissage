@@ -19,3 +19,4 @@ manifest.mf
 #/nbproject/ (Ne pas ignorer - Indispensable à l'intégration du projet dans NetBeans)
 /build/
 /dist/
+/src/Morpion/nbproject/private/

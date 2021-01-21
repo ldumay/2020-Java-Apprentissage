@@ -6,7 +6,7 @@
 package ldumay.lib.tipical;
 
 import java.util.Objects;
-import ldumay.lib.GenerateBirthday;
+import ldumay.lib.essentials.GenerateBirthday;
 
 /**
  *

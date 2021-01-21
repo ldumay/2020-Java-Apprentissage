@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ldumay.lib;
+package ldumay.lib.essentials;
 
 //import com.vaadin.ui.DateTimeField;
 import java.time.LocalDateTime;

@@ -7,10 +7,11 @@ package fr.ldumay;
 
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Set;
 import java.util.Stack;
 
-import ldumay.lib.DatasInput;
+import ldumay.lib.essentials.DatasInput;
 import ldumay.lib.tipical.Person;
 
 /**
@@ -130,6 +131,12 @@ public class main {
         }
         if( personStack.size() > fourRealDatas ){ duplicatesValid = true; }else{ duplicatesValid = false; }
         System.out.println("=> Datas in ArrayList : "+personStack.size()+" - Real datas : "+fourRealDatas+" - Duplicates valid : "+duplicatesValid);
+        //--
+        System.out.println("---\nTest Iterator :\n---");
+        Iterator<Person> iterator = personSet.iterator();
+        while(iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
         //--
         
         // End Program
