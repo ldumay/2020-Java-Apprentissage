@@ -1,7 +1,9 @@
 # - - [ .gitignore ] - -
 #
 # Ne pas synchroniser,
-
+.idea/
+nbproject/
+out/
 
 #-> les fichiers ci-dessous :
 
